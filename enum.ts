@@ -6,3 +6,4 @@ enum Bousole {
 }
 let n = Bousole.NORD;
 console.log(n)
+console.log(Bousole[1])

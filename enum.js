@@ -1,3 +1,4 @@
+"use strict";
 var Bousole;
 (function (Bousole) {
     Bousole[Bousole["NORD"] = 0] = "NORD";
@@ -5,6 +6,6 @@ var Bousole;
     Bousole[Bousole["EST"] = 2] = "EST";
     Bousole[Bousole["OUEST"] = 3] = "OUEST";
 })(Bousole || (Bousole = {}));
-let n = Bousole.NORD;
+var n = Bousole.NORD;
 console.log(n);
 console.log(Bousole[1]);

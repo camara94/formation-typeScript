@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/camara94/formation-typeScript/issues"
   },
-  "homepage": "https://github.com/camara94/formation-typeScript#readme"
+  "homepage": "https://github.com/camara94/formation-typeScript#readme",
+  "dependencies": {
+    "systemjs": "^6.10.2"
+  }
 }

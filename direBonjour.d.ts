@@ -1,0 +1,1 @@
+declare function direBonjour(params: string): void;
